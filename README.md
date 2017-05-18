@@ -1,0 +1,2 @@
+# SS_Yomicom
+2chSSまとめサイトのYomicomをクロールしてSS内のキャラ名と台詞を抽出
